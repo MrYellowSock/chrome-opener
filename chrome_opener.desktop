@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=chromeopen url scheme handler
+Exec=~/.local/bin/chrome_opener.sh %u
+StartupNotify=false
+MimeType=x-scheme-handler/chromeopen;
